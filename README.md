@@ -7,7 +7,7 @@ than build any model with it. Some analysis done are the following:
 * Checking for missing values
 * Descriptive statistics 
 * Answering question such as:
- * Top ten cuisines
- * Number of restaurants with online delivery
- * What is the percentage of non rated transacctions for restaurants with and without online delivery?
- * Percentage of resturants with different rating classes etc
+  * Top ten cuisines
+  * Number of restaurants with online delivery
+  * What is the percentage of non rated transacctions for restaurants with and without online delivery?
+  * Percentage of resturants with different rating classes etc
